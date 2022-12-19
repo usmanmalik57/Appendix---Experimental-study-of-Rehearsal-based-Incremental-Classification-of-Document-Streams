@@ -1,3 +1,7 @@
+# Appendix for the Journal Article - Experimental study of Rehearsal-based Incremental Classification of Document Streams
+
+**Note:** The full article is currently under review.
+
 ## Appendix A 
 
 ## Results for the Experiments on the Private Dataset for Most-Frequently Occuring Classes Scenario
